@@ -16,7 +16,7 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : jul4rl instagram
+ //  * @project_name : https://www.instagram.com/jul4rl
  //  * @author : salmanytofficial
  //  * @youtube : https://youtube.com/@Anitum
 //   * @description : jul4rl-V3 ,A Multi-functional whatsapp user bot.
@@ -24,14 +24,14 @@
 //* 
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: jul4rl instagram
+//Instagram: https://www.instagram.com/jul4rl
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
 //WhatsApp: +18128129489
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Anitum
 //   * Created By Github: jul4rl instagram.
 //   * Credit To Xeon
-//   * © 2024 jul4rl instagram.
+//   * © 2024 https://www.instagram.com/jul4rl.
 // ⛥┌┤
 // */
 
@@ -58,7 +58,7 @@ global.ownername = process.env.SUDO_NAME || 'jul4rl instagram' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@Anitum"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://www.instagram.com/jul4rlf"
+global.wagc = process.env.GL_PUSH || "https://www.instagram.com/jul4rl"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
