@@ -52,7 +52,7 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 //________________________________________________________________________________________________________
 global.botname = process.env.BOT_NAME || 'jul4rl insta-V3-MD' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '18128129489' //ur owner number
+global.ownernumber = process.env.SUDO || '+18128129489' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'jul4rl instagram' //ur owner name
 //________________________________________________________________________________________________________
